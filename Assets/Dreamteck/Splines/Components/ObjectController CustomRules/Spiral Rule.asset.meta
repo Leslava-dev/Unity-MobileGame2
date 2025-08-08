@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6cc6a0bc50b20b44a925efc90a98fa81
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Components/ObjectController CustomRules/Spiral
+    Rule.asset
+  uploadId: 697417

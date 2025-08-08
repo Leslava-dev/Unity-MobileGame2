@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 79246ce5388cae549b7ae6bf61b912f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Editor/SplineEditor/DS Editor/SplineComputerDebugEditor.cs
+  uploadId: 697417

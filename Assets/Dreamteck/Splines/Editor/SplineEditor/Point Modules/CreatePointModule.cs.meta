@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dcb9fe180ed013a44a474b2a4ece59fc
+timeCreated: 1476219856
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Editor/SplineEditor/Point Modules/CreatePointModule.cs
+  uploadId: 697417

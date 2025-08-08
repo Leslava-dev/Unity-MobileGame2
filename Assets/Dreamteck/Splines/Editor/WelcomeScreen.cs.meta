@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cb2fa0bb0a93dcc4e88002670fc87b70
+timeCreated: 1522401830
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Editor/WelcomeScreen.cs
+  uploadId: 697417

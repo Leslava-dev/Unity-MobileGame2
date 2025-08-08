@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1858e8552db82d4dabda17b0cadb7dd
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Utilities/Editor/Dreamteck.Utilities.Editor.asmdef
+  uploadId: 697417

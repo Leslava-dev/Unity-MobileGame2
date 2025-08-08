@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 18c6e61192794d34084b29e95d81c0bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Editor/Components/EdgeColliderGeneratorEditor.cs
+  uploadId: 697417

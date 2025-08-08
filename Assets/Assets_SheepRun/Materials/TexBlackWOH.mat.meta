@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 46811fc5010244e3f8f47492ff79d450
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150043
+  packageName: Sheep Run Platform Pack
+  packageVersion: 1.0.1
+  assetPath: Assets/Assets_SheepRun/Materials/TexBlackWOH.mat
+  uploadId: 344803

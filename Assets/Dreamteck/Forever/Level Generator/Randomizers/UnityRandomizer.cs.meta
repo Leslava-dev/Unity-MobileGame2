@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 45c75db90df8f164eb7526b4160507df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140926
+  packageName: Forever - Endless Runner Engine
+  packageVersion: 1.17
+  assetPath: Assets/Dreamteck/Forever/Level Generator/Randomizers/UnityRandomizer.cs
+  uploadId: 707472

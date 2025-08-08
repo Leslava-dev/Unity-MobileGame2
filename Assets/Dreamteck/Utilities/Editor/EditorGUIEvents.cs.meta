@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 15a36dd80a7895246ae6870b7124a571
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Utilities/Editor/EditorGUIEvents.cs
+  uploadId: 697417

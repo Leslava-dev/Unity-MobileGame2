@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2c28a6bb56e8cee4fb7dd9a493afbf83
+timeCreated: 1463695116
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Utilities/TS_Bounds.cs
+  uploadId: 697417

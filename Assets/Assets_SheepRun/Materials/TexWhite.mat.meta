@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9632816ca28ce4148bdca05fb05474bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150043
+  packageName: Sheep Run Platform Pack
+  packageVersion: 1.0.1
+  assetPath: Assets/Assets_SheepRun/Materials/TexWhite.mat
+  uploadId: 344803

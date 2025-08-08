@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7aa1ec6716ffe41409e013684443aa17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140926
+  packageName: Forever - Endless Runner Engine
+  packageVersion: 1.17
+  assetPath: Assets/Dreamteck/Forever/Editor/Level Segment/SegmentObjectSettingsEditor.cs
+  uploadId: 707472

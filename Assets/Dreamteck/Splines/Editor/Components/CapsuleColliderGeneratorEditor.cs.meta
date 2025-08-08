@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3a4dd445293b6d345b9675494ec5e182
+timeCreated: 1459595686
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Editor/Components/CapsuleColliderGeneratorEditor.cs
+  uploadId: 697417

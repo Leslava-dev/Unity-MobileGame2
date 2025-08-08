@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 62e998669a36f6946b5d107a292616b0
+timeCreated: 1495464643
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Core/IO/SplineParser.cs
+  uploadId: 697417

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 988e0370e4dbf5a4e82a4b537aaf96e4
+timeCreated: 1456910867
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Editor/Components/WaveformGeneratorEditor.cs
+  uploadId: 697417

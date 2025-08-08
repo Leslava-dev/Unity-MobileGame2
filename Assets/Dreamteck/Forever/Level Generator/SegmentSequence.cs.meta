@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 51ad59ae91f7c3f46bd7599ab4b788dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140926
+  packageName: Forever - Endless Runner Engine
+  packageVersion: 1.17
+  assetPath: Assets/Dreamteck/Forever/Level Generator/SegmentSequence.cs
+  uploadId: 707472

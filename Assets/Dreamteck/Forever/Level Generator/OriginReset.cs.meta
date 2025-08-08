@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cd8331b7a50d2e54b94cb0642ffbab68
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140926
+  packageName: Forever - Endless Runner Engine
+  packageVersion: 1.17
+  assetPath: Assets/Dreamteck/Forever/Level Generator/OriginReset.cs
+  uploadId: 707472

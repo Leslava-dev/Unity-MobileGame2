@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 07c5bf379e882994f9828b66623ef12f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Components/Sample Modifiers/ColorModifier.cs
+  uploadId: 697417

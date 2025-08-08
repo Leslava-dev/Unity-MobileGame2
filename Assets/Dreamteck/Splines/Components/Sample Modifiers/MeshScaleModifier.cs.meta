@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7be735bc80e43dc43984bdce01839e2e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Components/Sample Modifiers/MeshScaleModifier.cs
+  uploadId: 697417

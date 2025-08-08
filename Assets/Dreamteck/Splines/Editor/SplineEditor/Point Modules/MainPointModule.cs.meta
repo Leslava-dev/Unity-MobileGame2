@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 222164afd4e1e1845bca6b747eca74fb
+timeCreated: 1476960765
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Editor/SplineEditor/Point Modules/MainPointModule.cs
+  uploadId: 697417

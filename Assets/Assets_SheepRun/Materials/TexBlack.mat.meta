@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 216cbbab761bc4bac95013196223c706
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 150043
+  packageName: Sheep Run Platform Pack
+  packageVersion: 1.0.1
+  assetPath: Assets/Assets_SheepRun/Materials/TexBlack.mat
+  uploadId: 344803

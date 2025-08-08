@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 22ded5f1b11037c4aa36ec0f0e85c71e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Utilities/Editor/ScriptingDefineUtility.cs
+  uploadId: 697417

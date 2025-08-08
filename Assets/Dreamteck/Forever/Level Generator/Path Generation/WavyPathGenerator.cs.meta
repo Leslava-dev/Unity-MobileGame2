@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bb0022418b1457140b68ead01c55fd16
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 206357a059ad2a0459a05c3ed69d9bb5, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140926
+  packageName: Forever - Endless Runner Engine
+  packageVersion: 1.17
+  assetPath: Assets/Dreamteck/Forever/Level Generator/Path Generation/WavyPathGenerator.cs
+  uploadId: 707472

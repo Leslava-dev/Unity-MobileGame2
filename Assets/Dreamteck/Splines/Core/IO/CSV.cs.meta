@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c2313af4c5f59614393edd640d06f36c
+timeCreated: 1495699453
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Core/IO/CSV.cs
+  uploadId: 697417

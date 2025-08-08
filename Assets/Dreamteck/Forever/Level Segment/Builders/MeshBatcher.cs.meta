@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5f518bffc04c5e14f81aa4fbb3a1e271
+timeCreated: 1517944835
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140926
+  packageName: Forever - Endless Runner Engine
+  packageVersion: 1.17
+  assetPath: Assets/Dreamteck/Forever/Level Segment/Builders/MeshBatcher.cs
+  uploadId: 707472

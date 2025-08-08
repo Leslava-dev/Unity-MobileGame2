@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 44fc64e6788504b4aabbd3ac564d9736
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140926
+  packageName: Forever - Endless Runner Engine
+  packageVersion: 1.17
+  assetPath: Assets/Dreamteck/Forever/Editor/ForeverSplineEditor.cs
+  uploadId: 707472

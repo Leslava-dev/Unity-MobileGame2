@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 262a3f0b75ca449449f3bf590eb2d03c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 140926
+  packageName: Forever - Endless Runner Engine
+  packageVersion: 1.17
+  assetPath: Assets/Dreamteck/Forever/Level Generator/Path Generation/Custom Rules/RandomPathRule.cs
+  uploadId: 707472

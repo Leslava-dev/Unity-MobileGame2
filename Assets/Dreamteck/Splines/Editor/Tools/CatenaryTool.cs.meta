@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 62aeb649c30348f4ea6cec4a6481b8fd
+timeCreated: 1456934986
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61926
+  packageName: Dreamteck Splines
+  packageVersion: 3.0.6
+  assetPath: Assets/Dreamteck/Splines/Editor/Tools/CatenaryTool.cs
+  uploadId: 697417

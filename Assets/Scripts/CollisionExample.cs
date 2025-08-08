@@ -1,14 +1,32 @@
 using UnityEngine;
 
-public class CollisionExample : MonoBehaviour
+public class CollectableSpawner2 : MonoBehaviour
 {
-    private void OnCollisionEnter(Collision collision)
+    [SerializeField] private GameObject[] collectablePrefabs; 
+    [SerializeField] private int minSpawn = 2;
+    [SerializeField] private int maxSpawn = 5;
+    [SerializeField] private float spawnHeight = 1f; 
+    [SerializeField] private float spawnRange = 2f; 
+
+    private void Start()
     {
-        Debug.Log("---> Стикнувся з: " + collision.gameObject.name);
+        SpawnCollectables();
     }
 
-    private void OnCollisionExit(Collision collision)
+    private void SpawnCollectables()
     {
-        Debug.Log("---> Відійшов від: " + collision.gameObject.name);
+        int count = Random.Range(minSpawn, maxSpawn + 1);
+
+        for (int i = 0; i < count; i++)
+        {
+            Vector3 position = transform.position;
+
+            position.y += spawnHeight;
+            position.x += Random.Range(-spawnRange, spawnRange);
+
+            //random vegetable
+            GameObject prefab = collectablePrefabs[Random.Range(0, collectablePrefabs.Length)];
+            Instantiate(prefab, position, Quaternion.identity);
+        }
     }
 }
