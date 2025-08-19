@@ -10,6 +10,9 @@ public class SimpleCollectableSpawner : MonoBehaviour
     public float interval = 5f;
     public int objectsPerSpawn = 4;
 
+    [Header("Y Offset for spawn height")]
+    public float yOffset = -3f;
+
     private float nextSpawnZ = 0f;
 
     void Update()
@@ -22,18 +25,19 @@ public class SimpleCollectableSpawner : MonoBehaviour
     }
 
     void SpawnObjects()
-{
-    if (collectables == null || collectables.Length == 0) return;
-    if (spawnPoints == null || spawnPoints.Length == 0) return;
+    {
+        if (collectables == null || collectables.Length == 0) return;
+        if (spawnPoints == null || spawnPoints.Length == 0) return;
 
-    int count = Mathf.Min(objectsPerSpawn, spawnPoints.Length);
+        int count = Mathf.Min(objectsPerSpawn, spawnPoints.Length);
 
-    for (int i = 0; i < count; i++)
+        for (int i = 0; i < count; i++)
         {
             var prefab = collectables[Random.Range(0, collectables.Length)];
             var spawnPoint = spawnPoints[Random.Range(0, spawnPoints.Length)];
 
-            Instantiate(prefab, spawnPoint.position, Quaternion.identity);
+            Vector3 adjustedPosition = spawnPoint.position + new Vector3(0, yOffset, 0);
+            Instantiate(prefab, adjustedPosition, Quaternion.identity);
         }
     }
 }
